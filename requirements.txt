@@ -1,0 +1,9 @@
+Flask==1.1.1
+Flask-Cors==3.0.8
+torch==1.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.6.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+transformers
+spacy
+scispacy
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.4/en_ner_bc5cdr_md-0.2.4.tar.gz  
+pymed==0.8.9
